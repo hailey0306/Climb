@@ -1,0 +1,1 @@
+{"name": "Moe's Valley Offline Guide", "short_name": "Moe's Guide", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#17201e", "theme_color": "#17201e", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
